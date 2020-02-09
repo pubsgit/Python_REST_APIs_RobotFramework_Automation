@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97b0fce1-da70-4fcb-9e19-041ac38bdc94" name="Default Changelist" comment="" />
+    <list default="true" id="97b0fce1-da70-4fcb-9e19-041ac38bdc94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Resources/WebApp/Testdata/GuestUser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/WebApp/Testdata/LoggedInUser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/WebServices/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Results/WebServices/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/WebApp/LoggedInUser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/WebServices/GuestUser/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XYfYF1HpQSHUncHyXEvtxYn14B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,7 +27,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tests/WebServices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources/WebApp/Testdata/LoggedInUser" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -35,7 +47,11 @@
       <recent name="F:\python\WebAutomationUsingRobotFramework\Amazon\Resources\WebApp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\python\WebAutomationUsingRobotFramework\Amazon\Tests\WebServices" />
+      <recent name="F:\python\WebAutomationUsingRobotFramework\Amazon\Resources\WebApp\Testdata\LoggedInUser" />
+      <recent name="F:\python\WebAutomationUsingRobotFramework\Amazon\Resources\WebApp\Testdata\GuestUser" />
+      <recent name="F:\python\WebAutomationUsingRobotFramework\Amazon\Resources\WebServices\Testdata" />
+      <recent name="F:\python\WebAutomationUsingRobotFramework\Amazon\Resources\WebServices\Environment" />
+      <recent name="F:\python\WebAutomationUsingRobotFramework\Amazon\Tests\WebServices\GuestUser" />
     </key>
   </component>
   <component name="SvnConfiguration">
