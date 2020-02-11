@@ -1,13 +1,13 @@
 # web_robot_framework
 
-This is a Robot Framework to test WebApplication as well as WenServices/REST APIs
+This is a repo using Robot Framework to Automate a WebApplication as well as WenServices/REST APIs
 
 The following are the constructs implemented:
 a) Keyword driven framework.
 b) Data Driver from external sources.
 c) Page Object Modelling
 d) Provision to run on different environments like QA, Prod.
-e) Web Elements are located in seperated files so the change is element location does not impact the test case.
+e) Web Elements are located in seperated files so any change is element location does not impact the test case.
 f) Can be run on Different browsers / OS (Linux / Windows)
 
 Below is top->down workflow of how the excution is achieved.
