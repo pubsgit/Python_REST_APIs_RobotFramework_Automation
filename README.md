@@ -38,6 +38,7 @@ Prerequsets:
    robot -d Results\WebApp -i Smoke Tests\WebApp\GuestUser\CheckOut.robot
 
 Results:
+```
 localhost#123131123131> robot -d Results\WebApp -i Smoke Tests\WebApp\GuestUser\CheckOut.robot
 ==============================================================================
 CheckOut :: These cases are for Logged in user who wants to do a checkout
@@ -53,3 +54,4 @@ CheckOut :: These cases are for Logged in user who wants to do a c... | PASS |
 Output:  Amazon\Results\WebApp\output.xml
 Log:     Amazon\Results\WebApp\log.html
 Report:  Amazon\Results\WebApp\report.html
+```
